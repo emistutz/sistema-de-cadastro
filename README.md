@@ -3,3 +3,7 @@
 > Status do projeto: Em desenvolvimento
 
 > Como descrever um README: https://www.alura.com.br/artigos/escrever-bom-readme
+
+```
+node app.js
+```
